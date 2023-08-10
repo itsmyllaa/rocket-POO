@@ -22,3 +22,24 @@
 - Quando precisar fazer reuso de código
 - Para separar a complexidade de código, abstrair código e expor de maneira mais simples.
 - Para classificar as rotinas e trechos de código
+
+* Objetos
+
+Todo objeto possui:
+ - Propriedades e funcionalidades
+ - Estado e comportamento
+ - Atributos e métodos
+
+* Objetos abstratos vs Objetos do mundo real
+
+Trazemos a representação de algo do mundo real para objetos
+ - Pessoa
+ - Aluno
+ - Produto
+ - Carrinho de compras
+
+Porém, alguns objetos na programação não são fáceis de identificar, pois são abstratos como por exemplo:
+ - Autenticação
+ - Autorização 
+
+ # Nem todo objeto do mundo real fará parte do seu sistema
