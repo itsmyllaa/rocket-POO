@@ -12,3 +12,13 @@
 - Utilizado por Analistas de Sistemas e não somente por programadores.
     * Na fase de levantamento de requisitos de sistemas
     * Via gráficos, desenhos e textos
+
+* Onde e quando eu vou utilizar?
+
+- Linguagens 
+- Quando quiser aplicação de padrões de projetos
+- Quando quiser organizar seu código 
+- Para melhor entendimento no código, pensando nele como objetos.
+- Quando precisar fazer reuso de código
+- Para separar a complexidade de código, abstrair código e expor de maneira mais simples.
+- Para classificar as rotinas e trechos de código
