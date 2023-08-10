@@ -124,3 +124,10 @@ job.tempoEstimado = 20
 job.desconto = 10
 const custoEstimado = job.calcularEstimativa()
 console.log(custoEstimado)
+
+* Herança
+- Pais e filhos
+- Objetos podem herdar, ou estender, caracteristicas base.
+- Uma cópia de atributos e métodos de outra classe
+
+
