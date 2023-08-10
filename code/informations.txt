@@ -55,3 +55,12 @@ a partir de uma classe e muitos deles podem ser feitos da mesma classe.
 
 - Syntactical sugar
 - Prototype
+
+* Encapsulamento
+Dirigir o carro VS Conhecer o motor do carro
+
+- Colocar numa cápsula
+- Agrupamento de funções e variáveis
+- Esconder detalhes de implementação
+- Camada de segurança para os atributos e métodos
+
