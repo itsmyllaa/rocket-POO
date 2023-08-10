@@ -130,4 +130,28 @@ console.log(custoEstimado)
 - Objetos podem herdar, ou estender, caracteristicas base.
 - Uma cópia de atributos e métodos de outra classe
 
+class Veiculo {
+    rodas = 4
+    
+    mover(direcao){}
+    virar(direcao){}
+}
+class Moto extends Veiculo {
+    constructor() {
+        super() //puxar atributos e metodos do pai
+        this.rodas = 2
+    }
+}
 
+#Saiba
+
+- Um objeto pode estender de um objeto que pode estender de outro objeto
+- Fácil reutilização de código
+
+* Polimorfismo
+Quando um objeto estende de outro (herança) talvez haja necessidade de reescrever uma ou mais caracteristicas
+(atributos e métodos) nesse novo objeto.
+
+Recriamos então um método (ou mais) da classe herdada.
+
+Polimorfismo significa muitas formas
